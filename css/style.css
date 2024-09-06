@@ -1,0 +1,5 @@
+h3 {
+    background-image: url(img/fortab.jpg);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
